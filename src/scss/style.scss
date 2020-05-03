@@ -179,7 +179,6 @@ img.header-logo-mob{
         outline: 10px solid #FFFFFF;
         outline-offset: 0;
         min-width: 300px;
-        
         background-color: #FFFFFF;
         border-radius: 8px;
         margin: 10px 10px 0 10px;
@@ -216,7 +215,6 @@ img.header-logo-mob{
     @media (max-width:320px){
         font-size: 12px;
         line-height: 16px;
-        
         text-align: left;
         width: 260px;
         height: 126px;
@@ -709,7 +707,7 @@ img.header-logo-mob{
     }
 }
 
-.img.footer-container-ico-mob{
+.footer-container-ico-mob{
     @media (min-width:321px){
         display: none;
     }
@@ -734,7 +732,6 @@ img.header-logo-mob{
     margin-bottom: 12px;
     @media (min-width:321px){
         display: none;
-        
     }
 }
 
@@ -812,6 +809,5 @@ img.header-logo-mob{
         text-align: right;
         align-items: flex-start;
         padding-top: 14px;
-        
     }
 }
